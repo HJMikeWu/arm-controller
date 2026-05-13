@@ -1,0 +1,6 @@
+arm:
+  ip: "192.168.0.103"
+  port: 8527
+  home_joints: [-23.038, 86.39, -40.894, 0.042, 45.525, 37.733]
+  # saved_pos is written by SAVE POS button at runtime
+  saved_pos: null
